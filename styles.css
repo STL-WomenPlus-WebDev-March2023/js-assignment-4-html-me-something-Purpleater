@@ -6,19 +6,21 @@ body{
 }
 
 header{
-    background-color: rgb(4, 11, 14);
-    width: 1520px;
     padding: 5px;
     border-radius: 6px;
     
 }
 main{
-    background-color: rgba(1, 14, 31, 0.95);
+    background-color: rgba(1, 14, 31, 0.96);
     width: 1500px;
     padding: 10px;
     border-radius: 6px;
     margin: 6px;
     font-size: 18px;
+    border-style: solid;
+    border-color: rgb(19, 36, 46);
+    border-width: 5px;
+    
 }
 
 h2{
@@ -37,12 +39,15 @@ div{
 }
 .siphanthotoa{
     float: right;
-    border-width: 3px;
-    border-style: solid;
-    border-color: rgb(101, 157, 189);
-    border-radius: 7px;
-    background-color: rgb(5, 19, 31);
     margin: 10px;
+    width: 500px;
+    font-size: 15px;
+}
+
+#orbWadImage{
+    border-style: solid;
+    position: relative;
+    border-color: rgb(89, 154, 170);
 }
 
 .funParagraph{
@@ -51,5 +56,6 @@ div{
 }
 
 #subregions{
-    background-color: rgba(10, 53, 109, 0.95);;
+    background-color: rgba(10, 53, 109, 0.95);
+    margin: 5px;
 }
