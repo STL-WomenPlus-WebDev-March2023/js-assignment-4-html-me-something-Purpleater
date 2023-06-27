@@ -17,11 +17,17 @@ main{
     width: 1500px;
     padding: 10px;
     border-radius: 6px;
-    margin: 6px
+    margin: 6px;
+    font-size: 18px;
 }
 
 h2{
     text-decoration: underline;
+}
+
+#mainHeading{
+    color: red;
+    visibility: hidden;
 }
 
 div{
