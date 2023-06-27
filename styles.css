@@ -1,1 +1,49 @@
-/* Write your CSS here! */
+body{
+    background-image: url('images/Background.png');
+    color:aliceblue;
+    margin: 8px;
+    display: block;
+}
+
+header{
+    background-color: rgb(4, 11, 14);
+    width: 1520px;
+    padding: 5px;
+    border-radius: 6px;
+    
+}
+main{
+    background-color: rgba(1, 14, 31, 0.95);
+    width: 1500px;
+    padding: 10px;
+    border-radius: 6px;
+    margin: 6px
+}
+
+h2{
+    text-decoration: underline;
+}
+
+div{
+    margin: 5px;
+    padding: 5px;
+    border-radius: 6px;
+}
+.siphanthotoa{
+    float: right;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(101, 157, 189);
+    border-radius: 7px;
+    background-color: rgb(5, 19, 31);
+    margin: 10px;
+}
+
+.funParagraph{
+    color: green;
+    visibility: hidden;
+}
+
+#subregions{
+    background-color: rgba(10, 53, 109, 0.95);;
+}
