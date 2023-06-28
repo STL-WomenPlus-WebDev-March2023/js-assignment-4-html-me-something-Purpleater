@@ -8,7 +8,12 @@ body{
 header{
     padding: 5px;
     border-radius: 6px;
-    
+    background-color: rgba(1, 14, 31, 0.96);
+    width: 1520px;
+    margin: 6px;
+    border-style: solid;
+    border-color: rgb(19, 36, 46);
+    border-width: 5px;
 }
 main{
     background-color: rgba(1, 14, 31, 0.96);
