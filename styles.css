@@ -1,1 +1,66 @@
-/* Write your CSS here! */
+body{
+    background-image: url('images/Background.png');
+    color:aliceblue;
+    margin: 8px;
+    display: block;
+}
+
+header{
+    padding: 5px;
+    border-radius: 6px;
+    background-color: rgba(1, 14, 31, 0.96);
+    width: 1520px;
+    margin: 6px;
+    border-style: solid;
+    border-color: rgb(19, 36, 46);
+    border-width: 5px;
+}
+main{
+    background-color: rgba(1, 14, 31, 0.96);
+    width: 1500px;
+    padding: 10px;
+    border-radius: 6px;
+    margin: 6px;
+    font-size: 18px;
+    border-style: solid;
+    border-color: rgb(19, 36, 46);
+    border-width: 5px;
+    
+}
+
+h2{
+    text-decoration: underline;
+}
+
+#mainHeading{
+    color: red;
+    visibility: hidden;
+}
+
+div{
+    margin: 5px;
+    padding: 5px;
+    border-radius: 6px;
+}
+.siphanthotoa{
+    float: right;
+    margin: 10px;
+    width: 500px;
+    font-size: 15px;
+}
+
+#orbWadImage{
+    border-style: solid;
+    position: relative;
+    border-color: rgb(89, 154, 170);
+}
+
+.funParagraph{
+    color: green;
+    visibility: hidden;
+}
+
+#subregions{
+    background-color: rgba(10, 53, 109, 0.95);
+    margin: 5px;
+}
